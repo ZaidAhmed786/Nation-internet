@@ -1537,6 +1537,28 @@ section,
   border-radius: 5px;
   position: relative;
   overflow: hidden;
+  margin-bottom: 20px; /* margin bottom added */
+  transition: box-shadow 0.3s ease, transform 0.3s ease; /* smooth transition */
+}
+
+.pricing .pricing-item:hover {
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25); /* stronger shadow on hover */
+  transform: translateY(-5px); /* slight lift effect */
+}
+
+
+
+.service-item {
+  background-color: #fff; /* Agar background white chahiye to */
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* soft shadow */
+  transition: box-shadow 0.3s ease;
+  position: relative;
+}
+
+.service-item:hover {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18); /* hover pe thoda intense shadow */
 }
 
 .pricing .pricing-item h3 {
