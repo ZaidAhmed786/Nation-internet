@@ -1,6 +1,6 @@
 /**
-* Template Name: Nationwide Bandwidth LLC
-* Template URL: https://bootstrapmade.com/Nationwide Bandwidth LLC-bootstrap-business-template/
+* Template Name: Cyber Connection
+* Template URL: https://bootstrapmade.com/Cyber Connection-bootstrap-business-template/
 * Updated: Aug 07 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
