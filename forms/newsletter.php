@@ -6,8 +6,8 @@
   * For more info and help: https://bootstrapmade.com/php-email-form/
   */
 
-  // Replace sales@nellbeamen.com with your real receiving email address
-  $receiving_email_address = 'sales@nellbeamen.com';
+  // Replace sales@nellbeamen.tech with your real receiving email address
+  $receiving_email_address = 'sales@nellbeamen.tech';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
